@@ -22,9 +22,9 @@
         <maven.findbugsplugin.version>3.0.2</maven.findbugsplugin.version>
     </properties>
     
-<!--    <modules>-->
-<!--        <module>debt-manager-adapter</module>-->
-<!--    </modules>-->
+    <modules>
+        <module>repayment-plan-service</module>
+    </modules>
 
     <dependencies>
         <dependency>

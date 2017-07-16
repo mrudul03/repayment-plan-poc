@@ -8,7 +8,7 @@
 	<packaging>jar</packaging>
 
 	<name>repayment-plan-service</name>
-	<description>Repayment Plan Service</description>
+	<description>Repayment Plans Service</description>
 	
 	<parent>
         <groupId>business.services</groupId>
