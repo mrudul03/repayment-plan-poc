@@ -1,4 +1,0 @@
-Active MQ Admin Console
-http://localhost:8161/
-
-{"planName": "Plan 123", "planType": "Type 12", "planInstallments": 12 }
